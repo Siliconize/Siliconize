@@ -1,4 +1,4 @@
-Hello, I’m @Siliconize.
+Hello, I’m @the-undead.
 
 I’m working on understanding the low-level fundamentals of 
 computer science, electrical engineering, math, and physics, to learn as much as possible about
